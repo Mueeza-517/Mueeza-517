@@ -1,54 +1,69 @@
-# 👋 Hi, I'm Mueeza Akbar
+# Hi 👋, I'm Mueeza Akbar
 
-## 🚀 Full-Stack Developer | Problem Solver | Tech Enthusiast
-
-### 💻 Technical Skills
-
-**Frontend Development**
-- HTML5, CSS3, JavaScript (ES6+)
-- React.js, jQuery
-- Bootstrap, Responsive Design
-
-**Backend Development**
-- Node.js, Express.js
-- PHP
-- C#, .NET Framework
-
-**Databases**
-- MongoDB, Mongoose
-- SQL (MySQL, PostgreSQL)
-
-**Authentication & Security**
-- JWT Tokenization
-- Bcrypt Encryption
-
-**Programming Languages**
-- JavaScript, Python
-- C, C++
-- C#, Assembly
-
-**Data Structures & Algorithms**
-- Strong foundation in DSA
-- Problem-solving with optimized solutions
-
-### 🎯 What I Do
-
-- Build full-stack web applications using MERN stack
-- Create interactive frontend experiences
-- Implement secure authentication systems
-- Solve complex problems with efficient algorithms
-
-### 🌟 Featured Projects
-
-- **Solitaire Klondike Game** - Classic card game built with pure JavaScript and custom data structures
-- **MERN Authentication System** - Full-stack auth with JWT and bcrypt
-- **More projects coming soon...**
-
-### 📫 Let's Connect
-
-- GitHub: [@Mueeza-517](https://github.com/Mueeza-517)
-- Check out my repositories below! 👇
+## Full-Stack Developer | MERN Enthusiast | DSA Problem Solver
 
 ---
 
-*"Building solutions, one line of code at a time."*
+### About Me
+- 💻 Passionate Full-Stack Developer
+- 🔥 Strong expertise in MERN Stack & Data Structures
+- 📚 Building real-world applications with modern tech stacks
+- 🌐 Focused on secure authentication & efficient algorithms
+- 🎯 Love creating interactive web experiences
+
+---
+
+### Tech Stack
+
+#### Backend & Databases
+- **Node.js** | **Express.js**
+- **PHP**
+- **C#** | **.NET**
+- **MongoDB** (Mongoose ODM)
+- **SQL** (MySQL, PostgreSQL)
+- **JWT Tokenization** | **Bcrypt**
+
+#### Frontend & Web
+- **React.js**
+- **HTML5** | **CSS3**
+- **JavaScript (ES6+)**
+- **jQuery**
+- **Bootstrap**
+
+#### Programming Languages
+- **JavaScript** | **Python**
+- **C** | **C++**
+- **C#** | **Assembly**
+
+#### Tools & Practices
+- **Git** | **GitHub**
+- **Data Structures & Algorithms**
+- **RESTful APIs**
+- **Responsive Design**
+
+---
+
+### Featured Projects
+
+- **Solitaire Klondike Game** – Classic card game with pure JS & custom data structures
+- **MERN Authentication System** – Full-stack auth with JWT & bcrypt
+- **More projects coming soon...** 🚀
+
+---
+
+### Currently Learning
+- Advanced System Design patterns
+- Cloud deployment (AWS/Azure)
+- Microservices Architecture
+- Performance optimization techniques
+
+---
+
+### Connect With Me
+- **GitHub:** [@Mueeza-517](https://github.com/Mueeza-517)
+- **Email:** [Your Email]
+- **LinkedIn:** [Your LinkedIn]
+
+---
+
+⭐ *"Building scalable solutions, one commit at a time."* ⭐
